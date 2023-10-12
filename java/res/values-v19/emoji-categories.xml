@@ -455,6 +455,8 @@
         <item>1f620</item>
         <item>1f62c</item>
         <item>1f621</item>
+        <item>1f642,200D,2194,FE0F</item>
+        <item>1f642,200D,2195,FE0F</item>
         <item>1f622</item>
         <item>1f634</item>
         <item>1f62e</item>
@@ -1418,6 +1420,7 @@
     >
         <!-- animal-mammal -->
         <item>1F435</item>
+        <item>1F426,200D,1F525</item>
         <item>1F412</item>
         <item>1F98D</item>
         <item>1F9A7</item>
